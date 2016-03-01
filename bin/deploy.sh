@@ -12,7 +12,6 @@ if [[ "master" != "$TRAVIS_BRANCH" ]]; then
 	exit
 fi
 
-cd app
 
 echo ".travis.yml
 bin
