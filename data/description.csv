@@ -1,0 +1,5 @@
+type,sublabel,description,styles,bgcolor
+一般ごみ,,,img/moyasanai02.svg,#733b96
+資源（かん・びん）,,,img/shigen02.svg,#77ae1f
+資源（ペットボトル・紙・布）,,,img/moyasu02.svg,#ea3b13
+プラ製容器包装,,,img/bin02.svg,#2dc7aa
