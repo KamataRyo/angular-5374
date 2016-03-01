@@ -12,8 +12,12 @@ if [[ "master" != "$TRAVIS_BRANCH" ]]; then
 	exit
 fi
 
+rm -rf .git
+rm -r .gitignore
 
-echo ".travis.yml
+echo ".gitignore
+.travis.yml
+.DS_Store
 bin
 5374colormanual.pdf
 *.md" > .gitignore
