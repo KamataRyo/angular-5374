@@ -1,5 +1,0 @@
-公開用サイトのURLです。
-http://codeforwakayama.github.io/wakayama.5374.jp/
-
-いただく予定のURLです。
-http://wakayama.5374.jp/
