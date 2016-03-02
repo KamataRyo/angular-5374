@@ -10,3 +10,5 @@ var MaxDescription = 9; // ごみの最大種類、９を超えない場合は�
 var MaxMonth = 3;
 
 var WeekShift = true; // 休止期間なら週をずらすときは、true。金沢の仕様は、true。
+
+var UserDataOrigin = "http://wakayama.5374.jp/"; // gh-pagesからCORS可能なコンテンツとして読み込み
