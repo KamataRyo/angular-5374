@@ -1,0 +1,28 @@
+{
+  "name": "ionic-starter-5374",
+  "version": "1.0.0",
+  "description": "ionic 5374 template",
+  "main": "index.html",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamataRyo/ionic-starter-5374.git"
+  },
+  "keywords": [
+    "ionic",
+    "5374",
+    "mobile",
+    "application"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KamataRyo/ionic-starter-5374/issues"
+  },
+  "homepage": "https://github.com/KamataRyo/ionic-starter-5374#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
