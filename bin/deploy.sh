@@ -20,7 +20,10 @@ echo ".gitignore
 .DS_Store
 bin
 5374colormanual.pdf
-*.md" > .gitignore
+*.md
+.bowerrc
+bower.json
+package.json" > .gitignore
 
 git init
 git config user.name "Travis CI"
