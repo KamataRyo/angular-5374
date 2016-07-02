@@ -9,5 +9,5 @@ script:
 after_success: bash ./bin/deploy.sh
 env:
   global:
-  - GH_REF: github.com/c4w/wakayama.5374.jp.git
+  - GH_REF: github.com/KamataRyo/angular-5374.git
   - secure: "gKFU4Gdc2GjhGcH9hB2rRuz84ayyXS9739jjanECR8uVXjN9mVd4kitOKCg55j8NxMwtAMzsZVv+cWO2dF84MJICAdZQxE4OXg/h7rhkIDpkd5fRDAvzDHzCIMSz6cduXPsxXjhD0MsISR0FiBrUOzrxmmq+D0HLoZeYsK9H8wM="

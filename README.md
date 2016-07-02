@@ -32,13 +32,3 @@ For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
 
 本アプリ及びソースコードの著作権はCode for Kanazawaに帰属します。
 但し、このソースコードは[MPL](http://www.mozilla.org/MPL/2.0/)のもと配布されています。MPLに従えば、どなたでも利用、改変、及び再配布が可能です。
-
-
-## 和歌山版について
-
-和歌山版は以下のメンバーにより作成されました。
-
-* @KamataRyo
-* @Kayoko-t
-* @kazu-imp18
-* @TetsuGH

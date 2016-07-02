@@ -1,3 +1,4 @@
+# sample for local notification
 module.controller 'MyCtrl',[
     '$scope'
     '$ionicPlatform'
@@ -17,4 +18,4 @@ module.controller 'MyCtrl',[
             }
                 .then (result) ->
                     console.log result
-]               
+]
