@@ -58,6 +58,7 @@ var AreaModel = function() {
   }
 }
 
+
 /**
   各ゴミのカテゴリを管理するクラスです。
 */
